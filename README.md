@@ -1,26 +1,20 @@
-# vue-token-demo
+# Vue-token-demo
 
-## Project setup
-```
+## 快速开始
+```bash
+npm install
+cd mini-serve
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+### 启动前端
+
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 启动后端
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+```bash
+npm run start
 ```
